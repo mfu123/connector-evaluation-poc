@@ -11,3 +11,4 @@ independent integration checks.
 
 The adapter boundary keeps provider details separate from evaluation logic,
 which makes it possible to add connectors without changing existing cases.
+test
